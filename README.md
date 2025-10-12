@@ -2,4 +2,4 @@
 personal blog of the zackhe.uk webmaster
 
 posts:
- - [furries (controversial)](/furries), 9 oct 25
+ - [holidays](/holidays), 8 oct 25
