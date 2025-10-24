@@ -34,4 +34,4 @@ All it is in reality is a pain in the ass
 
 ---
 
-<sub>Have an issue with this content? Want to suggest something? Or do you just want to contact me. If so, [click here](https://github.com/zackhe-blog/zackhe-blog.github.io/issues/new).</sub>
+<sub>Have an issue with this content? Want to suggest something? Or do you just want to contact me. If so, [click here](https://github.com/zackhe-uk/blog/issues/new).</sub>
